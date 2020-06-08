@@ -48,7 +48,7 @@ contract CACAShares is ERC20Interface, SafeMath {
     constructor() public {
 //set long name in quotes
         name = "CAC Class A Equity Shares";
-//set ticker symbol in quotes
+//set ticker symbol in quotes this will be displayed in your wallet
         symbol = "CACA";
 //set decimal 0 supply is exact number if decimal is 4 it is supply + 4
         decimals = 0;
