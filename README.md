@@ -1,4 +1,4 @@
-# Simple-Shares -- Simpliest ERC20 Equity Token There Is.
+# Simpliest ERC20 Equity Token There Is...
   
 Very simple way to create a ERC 20 token set with 0 decimal places for no division.  
 This cheap way to create non-fungible tokens to represent whole assests like a share of stock.  
